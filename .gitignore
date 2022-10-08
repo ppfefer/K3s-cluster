@@ -1,0 +1,7 @@
+terraform/terraform/terraform.tfstate
+terraform/terraform/terraform.tfstate.backup
+terraform/terraform/.terraform.lock.hcl
+terraform/terraform/credentails.auto.tfvars
+terraform/terraform/.terraform/providers/registry.terraform.io/telmate/proxmox/2.9.11/linux_amd64/LICENSE
+terraform/terraform/.terraform/providers/registry.terraform.io/telmate/proxmox/2.9.11/linux_amd64/terraform-provider-proxmox_v2.9.11
+terraform/terraform/.terraform/providers/registry.terraform.io/telmate/proxmox/2.9.11/linux_amd64/README.md
